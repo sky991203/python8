@@ -1,2 +1,3 @@
 Gittest Code
-두번째 수정
+두번째 수정내용을 추가합니다(reset)
+
